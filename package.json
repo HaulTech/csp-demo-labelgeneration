@@ -1,0 +1,14 @@
+{
+  "name": "csp-demo-labelgeneration",
+  "version": "1.0.0",
+  "description": "Demo for generating PDF labels from HaulTech CSP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HTC Solutions Ltd",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
